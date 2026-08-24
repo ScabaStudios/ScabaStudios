@@ -8,11 +8,21 @@ I'm documenting my growth from beginner to software engineer by building real pr
 
 Build thoughtful software one project at a time.
 
+## 📍 Current Focus
+
+- Building one complete project every sprint
+- Learning Swift and iOS development
+- Designing Project Beacon
+
 🌟 Long-Term Vision
 
 **Project Beacon**
 
-Details tbd
+Working on an ambitious long-term software project.
+
+Its purpose is simple:
+
+Help creative people connect, improve, and build together.
 
 📚 Currently Learning
 
